@@ -39,5 +39,3 @@ runs/
 # Claude
 .claude/
 
-# Results (regenerable)
-results/
